@@ -1,4 +1,5 @@
 export { HomeView } from './home';
+export { LandingView } from './landing';
 export { ArtView } from './art';
 export { ArtCreateView } from './artCreate';
 export { ArtistView } from './artist';

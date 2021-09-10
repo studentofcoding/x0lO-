@@ -116,7 +116,7 @@ export const AppBar = () => {
       <div className="app-left app-bar-box">
         {window.location.hash !== '#/analytics' && <Notifications />}
         <div className="divider" />
-        <MetaplexMenu />
+        {/* <MetaplexMenu /> */}
       </div>
       {connected ? (
         <div className="app-right app-bar-box">
